@@ -3,8 +3,6 @@
 import collections
 import re
 
-
-
 RE_SUBJECT = re.compile("[, _]+")
 
 
